@@ -1,3 +1,2 @@
 1) Stop printing
-2) perform an action when awakened.
-3) Update python script with template
+2) perform Some tests

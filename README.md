@@ -1,39 +1,38 @@
 # Speech to Text
 
-The projects aims at listening to a microphone and transforming that into speech.
+The projects aims at listening to a microphone and awakens when a specific word is recognized.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The microphone constantly listens and uses the Google API to transform the audio segment into text. When the specific word "Mango" is recognized, it starts listenning again to catch usefull commands like "turn on the kitchen lights"
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * Built for mac, may require updates for windows
+* Installation of SpeechRecognition required
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone the repo using
+
+```
+https://github.com/LaurentLava/Mango
+```
 
 ### Executing program
 
-* 
-* Step-by-step bullets
+* Once the files are downloaded, type the following command
 
 ```
-code blocks for commands
+python speech_to_text.py
 ```
 
 ## Help
 
-Any advise for common problems or issues.
+* Warning message still showing. The issue is not fixed yet but is being investigated
 
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
@@ -42,7 +41,7 @@ Laurent Lava (laurentlava04[at]gmail.com)
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
+    * Adding usefull commands
 * 0.1
     * Initial Release
 
