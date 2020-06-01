@@ -1,0 +1,100 @@
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:50:25: Results: {'success': True, 'error': None, 'transcription': 'hello'}
+@: 23/05/2020 18:50:34: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:52:01: Results: {'success': True, 'error': None, 'transcription': 'champagne'}
+@: 23/05/2020 18:52:06: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 23/05/2020 18:55:54: Results: {'success': True, 'error': None, 'transcription': 'murder'}
+@: 23/05/2020 18:56:40: Results: {'success': True, 'error': None, 'transcription': 'MoDA'}
+@: 01/06/2020 06:46:11: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
+@: 01/06/2020 06:46:24: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 01/06/2020 06:46:30: Results: {'success': True, 'error': None, 'transcription': 'turn on the kitchen lights'}
+@: 01/06/2020 06:46:35: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
+@: 01/06/2020 06:46:42: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 01/06/2020 06:46:45: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
+@: 01/06/2020 06:46:49: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 01/06/2020 06:46:55: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
+@: 01/06/2020 06:47:02: Results: {'success': True, 'error': None, 'transcription': 'turn off stitching'}
+@: 01/06/2020 06:47:08: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
+@: 01/06/2020 06:47:10: Results: {'success': True, 'error': None, 'transcription': 'mango'}
+@: 01/06/2020 06:47:18: Results: {'success': True, 'error': None, 'transcription': 'turn off the kitchen light'}
+@: 01/06/2020 06:47:26: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
+@: 01/06/2020 06:47:30: Results: {'success': True, 'error': 'Unable to recognize speech', 'transcription': None}
